@@ -2,10 +2,10 @@
 
 /**
  * View.class [ HELPER MVC ]
- * Reponsável por carregar o template, povoar e exibir a view, povoar e incluir arquivos PHP no sistem.
+ * Reponsável por carregar o template, povoar e exibir a view, povoar e incluir arquivos PHP no sistema.
  * Arquitetura MVC!
  * 
- * @copyright (c) 2014, Robson V. Leite UPINSIDE TECNOLOGIA
+ * @copyright (c) 2016, Fernando Dantas
  */
 class View {
 
