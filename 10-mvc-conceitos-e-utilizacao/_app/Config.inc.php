@@ -1,6 +1,6 @@
 <?php
 //CONFIGURAÇÕES DO SITE ####################
-define('HOME', 'http://localhost/fwd/08-classes-auxiliares');
+define('HOME', 'http://localhost/fwd/10-mvc-conceitos-e-utilizacao');
 define('HOST','localhost');
 define('USER','root');
 define('PASS','');
